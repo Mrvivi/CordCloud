@@ -1,5 +1,22 @@
+/*
+Check in for Surge by Neurogram
+
+ - 站点签到脚本
+ - 流量详情显示
+ - 多站签到支持
+ - 多类站点支持
+ 
+使用说明：https://www.notion.so/neurogram/Check-in-0797ec9f9f3f445aae241d7762cf9d8b
+
+关于作者
+Telegram: Neurogram
+GitHub: Neurogram-R
+*/
+
 const accounts = [
-    ["cordcloud", "https://www.cordcloud.org/auth/login", "stephen.being@gmail.com", "123456789"]
+    ["老板娘", "https://cordcloud.org/auth/login", "stephen.being@gmail.com", "123456789"],
+    ["DlerCloud", "https://example.com/auth/login", "example@dlercloud.com", "password"],
+    ["CCCAT", "https://example.com/user/login.php", "example@cccat.com", "password"]
 ]
 
 async function launch() {
