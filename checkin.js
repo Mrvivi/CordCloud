@@ -15,7 +15,7 @@ GitHub: Neurogram-R
 
 const accounts = [
     ["老板娘", "https://cordcloud.org/auth/login", "stephen.being@gmail.com", "123456789"],
-    ["DlerCloud", "https://example.com/auth/login", "example@dlercloud.com", "password"],
+    ["FlyCloud", "https://www.flycloud.shop/auth/login", "stephen.being@gmail.com", "g5hDMvBU7MzMkJ8"],
     ["CCCAT", "https://example.com/user/login.php", "example@cccat.com", "password"]
 ]
 
